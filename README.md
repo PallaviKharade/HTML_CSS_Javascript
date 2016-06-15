@@ -1,4 +1,3 @@
 # HTML_CSS_Javascript
-Hello
-Some HTML + Javascript + CSS Assignments
+Hello Here are Some HTML + Javascript + CSS Assignments
 
